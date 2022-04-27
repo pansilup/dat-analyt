@@ -1,2 +1,2 @@
 # fat-analyt : is713_grp2
-analysys of the effect of Chinese zodiac on fertility rate
+analysys on the effect of Chinese zodiac on fertility rate
